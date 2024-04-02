@@ -1,0 +1,23 @@
+{
+  "name": "fe-commitlint-config",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "keywords": [
+    "commit",
+    "lint"
+  ],
+  "author": "= <=>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/commitlint-config.test.js"
+  }
+}

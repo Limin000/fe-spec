@@ -1,0 +1,26 @@
+{
+  "name": "fe-markdownlint-config",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "min-000 <limin9716@163.com>",
+  "homepage": "https://github.com/Limin000/fe-spec#readme",
+  "license": "ISC",
+  "main": "index.json",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Limin000/fe-spec.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/markdownlint.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Limin000/fe-spec/issues"
+  }
+}
