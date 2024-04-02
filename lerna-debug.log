@@ -1,0 +1,4 @@
+42 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin master
+42 error fatal: unable to access 'https://github.com/Limin000/fe-spec.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
+42 error     at makeError (C:\Users\LENOVO\Desktop\fe-spec\node_modules\.pnpm\execa@5.0.0\node_modules\execa\lib\error.js:59:11)
+42 error     at handlePromise (C:\Users\LENOVO\Desktop\fe-spec\node_modules\.pnpm\execa@5.0.0\node_modules\execa\index.js:114:26)
