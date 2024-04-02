@@ -1,5 +1,5 @@
 {
-  "name": "commitlint-config",
+  "name": "fe-commitlint-config",
   "version": "0.0.0",
   "description": "> TODO: description",
   "keywords": [
@@ -9,7 +9,7 @@
   "author": "= <=>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/commitlint-config.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
