@@ -1,13 +1,9 @@
 {
-  "name": "fe-commitlint-config",
+  "name": "commitlint-config",
   "version": "0.1.0",
   "description": "> TODO: description",
-  "keywords": [
-    "commit",
-    "lint"
-  ],
-  "author": "= <=>",
-  "homepage": "",
+  "author": "min-000 <limin9716@163.com>",
+  "homepage": "https://github.com/Limin000/fe-spec#readme",
   "license": "ISC",
   "main": "index.js",
   "directories": {
@@ -17,8 +13,14 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Limin000/fe-spec.git"
+  },
   "scripts": {
     "test": "node ./__tests__/commitlint-config.test.js"
   },
-  "gitHead": "eaf4b1a7f1f82d6e911b0c18fd434acb36f0c933"
+  "bugs": {
+    "url": "https://github.com/Limin000/fe-spec/issues"
+  }
 }

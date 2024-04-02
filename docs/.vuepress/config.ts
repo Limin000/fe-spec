@@ -4,7 +4,7 @@ export default defineConfig4CustomTheme({
 	locales: {
 		'/': {
 			lang: 'zh-CN',
-			title: '印客学院',
+			title: '编码规范',
 			description: '前端编码规范工程化',
 		},
 	},

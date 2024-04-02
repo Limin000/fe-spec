@@ -1,4 +1,3 @@
-//入口文件
 module.exports = {
   parserPreset: 'conventional-changelog-conventionalcommits',
   rules: {

@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 印客学院
+heroText: 编码规范
 tagline: 前端编码规范工程化
 actionText: 立刻进入 →
 actionLink: /coding/html.md
@@ -53,7 +53,6 @@ features:
 
 ## :email: 联系
 
--   **印客学院官网**: <http://encodestudio.cn>
--   **GitHub**: <https://github.com/encode-studio-fe/fe-spec>
+-   **GitHub**: <https://github.com/Limin000/fe-spec>
 
 </br>

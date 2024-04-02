@@ -5,8 +5,8 @@ categories:
 tags:
     - 编码规范
 author:
-    name: 澄怀
-    link: https://github.com/encode-studio-fe/fe-spec
+    name: limin
+    link: https://github.com/Limin000/fe-spec
 ---
 
 # HTML 编码规范
@@ -337,10 +337,10 @@ author:
 <html lang="zh-CN">
  <head>
   <meta charset="utf-8" />
-  <meta name="description" content="印客学院 - 一千个职业梦想的赞助商" />
-  <meta name="keyword" content="印客学院" />
+  <meta name="description" content="编码规范" />
+  <meta name="keyword" content="编码规范" />
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, viewport-fit=cover" />
-  <title>印客学院</title>
+  <title>编码规范</title>
   <link rel="stylesheet" href="example.css" />
  </head>
  <body>
